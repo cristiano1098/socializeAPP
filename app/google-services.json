@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552944138989",
+    "project_id": "socialize-cmu",
+    "storage_bucket": "socialize-cmu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552944138989:android:8ca61ee671d984798d6ae4",
+        "android_client_info": {
+          "package_name": "com.example.cmu_g10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wb96L9An0uIWkEbBAvYKJanwQ36YKSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CMU_G10</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="upload_field_hint">Carregar Ficheiro</string>
+</resources>
